@@ -1,11 +1,7 @@
-
-
-
-
 # Hi there
 
-My name is Ed Hinrichsen, I’m an award-winning web dev / digital designer and full stack software engineer. I have a passion for all things technology and design, from software engineering & machine learning to UI/UX & 3D graphics.
+I'm Alireza Javadi, a back-end programmer with a passion for building solutions that make a difference. From crafting efficient websites to solving complex bugs, I love tackling the challenges that come my way.
 
-In addition to my love of technology and design, I am also interested in education, history, economics and politics.
+Beyond back-end development, I’m fascinated by robotics and often dive into 3D game development with Unity—just for fun! I have two years of experience in the programming world, and every day I'm eager to learn and innovate even more.
 
-Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my fifteen plus years of coding experience.
+Type cd ~/projects then ls to explore some of the robots, websites, and projects I've created in my coding journey so far.

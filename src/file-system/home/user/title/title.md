@@ -3,12 +3,10 @@
 
 ##   Hi there, 
 
-#  *I'm Ed H*
+#  *I'm A. J*
 
 ##   • Software Engineer
-##   • Digital Designer
-
-
+## • Back-End Developer
 
 
 
